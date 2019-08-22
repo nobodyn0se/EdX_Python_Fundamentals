@@ -1,0 +1,6 @@
+1: panda
+2: python
+3: shark
+4: robin
+5: rhino
+6: catfish
